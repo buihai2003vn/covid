@@ -1,1 +1,1 @@
-# covid
+# Corona virus Dashboard
